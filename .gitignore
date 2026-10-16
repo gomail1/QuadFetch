@@ -33,6 +33,7 @@ packaging/release/
 # ---- GitHub Release 附件（应在 Releases 页面上传，不要提交进仓库，否则撑爆历史）----
 QuadFetch-Setup-*.exe
 QuadFetch-*-portable.zip
+QuadFetch.zip
 
 # ---- IDE ----
 .idea/

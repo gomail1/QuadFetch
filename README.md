@@ -104,7 +104,7 @@ Chrome / Edge（Chromium 内核）MV3 扩展，把浏览器里的下载自动接
 
 **安装**
 
-1. 下载本仓库的 [`QuadFetch插件.zip`](QuadFetch插件.zip) 并解压
+1. 下载 [QuadFetch插件.zip](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch.zip) 并解压
 2. 打开 `chrome://extensions/`（Edge 为 `edge://extensions/`）
 3. 打开右上角「开发者模式」→ 点「加载已解压的扩展程序」→ 选择解压出的文件夹
 4. 确保 QuadFetch 正在运行（引擎监听 `127.0.0.1:17888`）
