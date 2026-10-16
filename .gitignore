@@ -1,0 +1,42 @@
+# ---- Go 构建产物 ----
+*.exe
+*.exe~
+*.test
+*.out
+quadfetchd
+
+# ---- 运行时数据（含用户任务记录与设置，不入库）----
+data/
+dist/
+build/
+bt-store/
+*.log
+
+# ---- 引擎运行时生成的凭据/日志（绝不能推到公开仓库）----
+admin_token.txt
+admin_token_err.txt
+admin_err.txt
+admin_help.txt
+admin_credentials.json
+instance.lock
+
+# ---- Flutter ----
+flutter_app/.dart_tool/
+flutter_app/.packages
+flutter_app/build/
+flutter_app/pubspec.lock
+flutter_app/windows/flutter/ephemeral/
+
+# ---- 打包脚本产物 ----
+packaging/release/
+
+# ---- GitHub Release 附件（应在 Releases 页面上传，不要提交进仓库，否则撑爆历史）----
+QuadFetch-Setup-*.exe
+QuadFetch-*-portable.zip
+QuadFetch.zip
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.iml
+.DS_Store
