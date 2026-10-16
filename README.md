@@ -81,12 +81,12 @@ QuadFetch 是一款**本地优先**的桌面下载器：Go 语言编写的下载
 
 ## 📥 下载安装
 
-前往 [**Releases**](../../releases) 页面：
+前往 [**Releases**](https://github.com/gomail1/QuadFetch/releases) 页面，或直接下载：
 
-| 文件                             | 说明                              |
-| ------------------------------ | ------------------------------- |
-| `QuadFetch-Setup-x.y.z.exe`    | 安装版，安装向导 + 开始菜单快捷方式 |
-| `QuadFetch-x.y.z-portable.zip` | 便携版，解压即用，不写注册表                  |
+| 文件 | 说明 |
+|---|---|
+| [QuadFetch-Setup-1.0.16.exe](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch-Setup-1.0.16.exe) | 安装版，安装向导 + 开始菜单快捷方式 |
+| [QuadFetch-1.0.16-portable.zip](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch-1.0.16-portable.zip) | 便携版，解压即用，不写注册表 |
 
 **系统要求**：Windows 10 / 11（x64）
 
@@ -104,7 +104,7 @@ Chrome / Edge（Chromium 内核）MV3 扩展，把浏览器里的下载自动接
 
 **安装**
 
-1. 下载 [QuadFetch插件.zip](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch.zip) 并解压
+1. 下载 [QuadFetch.zip 浏览器扩展包](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch.zip) 并解压
 2. 打开 `chrome://extensions/`（Edge 为 `edge://extensions/`）
 3. 打开右上角「开发者模式」→ 点「加载已解压的扩展程序」→ 选择解压出的文件夹
 4. 确保 QuadFetch 正在运行（引擎监听 `127.0.0.1:17888`）
