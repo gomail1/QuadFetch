@@ -10,7 +10,7 @@
 
 ![flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter\&logoColor=white)
 
-![version](https://img.shields.io/badge/version-1.0.16-orange)
+![version](https://img.shields.io/badge/version-1.0.17-orange)
 
 ![license](https://img.shields.io/badge/license-Proprietary-red)
 
@@ -85,8 +85,8 @@ QuadFetch 是一款**本地优先**的桌面下载器：Go 语言编写的下载
 
 | 文件 | 说明 |
 |---|---|
-| [QuadFetch-Setup-1.0.16.exe](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch-Setup-1.0.16.exe) | 安装版，安装向导 + 开始菜单快捷方式 |
-| [QuadFetch-1.0.16-portable.zip](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch-1.0.16-portable.zip) | 便携版，解压即用，不写注册表 |
+| [QuadFetch-Setup-1.0.17.exe](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch-Setup-1.0.17.exe) | 安装版，安装向导 + 开始菜单快捷方式 |
+| [QuadFetch-1.0.17-portable.zip](https://github.com/gomail1/QuadFetch/releases/download/quadfetch/QuadFetch-1.0.17-portable.zip) | 便携版，解压即用，不写注册表 |
 
 **系统要求**：Windows 10 / 11（x64）
 
